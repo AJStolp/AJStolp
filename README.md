@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- :honey_pot: In the kitchen, I have several projects that are being baked;
+- :honey_pot: In the kitchen, I have several projects that are baking;
       <ul>
             <li>I am working on a fishing report site for a more comprehensive report guide.</li>
             <li>I am building a Shopify Store with a Midwest theme.</li>
