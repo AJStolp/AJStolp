@@ -8,7 +8,10 @@
       </ul>
 - :eyes: Currently, I am looking for full time work.
 - :bulb: I’m currently learning PHP and Word Press coupled with elevating my TypeScript and React skills. I also started working with an open source CMS called www.Strapi.io
-- :man_technologist: All of my projects are available at: My Portfolio: www.anthonystolp.dev
-- :memo: I started writing blogs which can be found at my Shopify Store: www.PolarLightsApparel.com/blogs/news
+- :man_technologist: All of my projects are available at: <a href="https://anthonystolp.dev">My Portfolio</a>
+- :memo: I started writing blogs which can be found at my: <a href="https://PolarLightsApparel.com/blogs/news">Shopify Store</a>
 - :speech_balloon: Ask me about anything React/JavaScript.
 - :evergreen_tree: I enjoy being in the outdoors. There's nothing quite like the feeling of being surrounded by nature, whether it's hiking through a forest or watching a stunning sunrise or sunset over the lake.
+
+- :mailbox_with_no_mail: You can reach me at <a href="mailto:anthony.stolp@proton.me">Anthony.Stolp@proton.me</a>
+- :handshake: You can connect with me here: <a href="https://linkedin.com/in/anthonyjstolp">LinkedIn</a>
