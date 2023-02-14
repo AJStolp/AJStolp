@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, it's nice to see ya 👋
 
 - :honey_pot: In the kitchen, I have several projects that are baking;
       <ul>
