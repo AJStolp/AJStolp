@@ -10,4 +10,4 @@
 - :man_technologist: All of my projects are available at: My Portfolio: www.anthonystolp.dev
 - :memo: I Started writing blogs which can be found at my Shopify Store: www.PolarLightsApparel.com
 - :speech_balloon: Ask me about anything React/JavaScript.
-- :evergreen_tree: I enjoy being in the outdoors. There's nothing quite like the feeling of being surrounded by nature, whether it's hiking through a dense forest or watching a stunning sunrise or sunset.
+- :evergreen_tree: I enjoy being in the outdoors. There's nothing quite like the feeling of being surrounded by nature, whether it's hiking through a forest or watching a stunning sunrise or sunset over the lake.
