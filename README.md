@@ -7,7 +7,7 @@
             <li>I am creating Gigtor with talented people from around the world to help venues and artist connect more seamlessly.</li>
       </ul>
 - :eyes: Currently, I am looking for full time work.
-- :bulb: I’m currently learning PHP and Word Press coupled with elevating my TypeScript and React skills. I also started working with an open source CMS called <a href="https://strapi.io">Strapi.io</a> and another CMS Called <a href="https://www.sanity.io/">Sanity.io</a>. I enjoy building content on top of CMS for ease of use by clients and other teams.
+- :bulb: I’m currently learning PHP and Word Press coupled with elevating my TypeScript and React skills. I also started working with an open source CMS called <a href="https://strapi.io">Strapi.io</a> and another CMS called <a href="https://www.sanity.io/">Sanity.io</a>. I enjoy building sites coupled with a CMS for ease of use by clients and other teams.
 - :man_technologist: All of my projects are available at: <a href="https://anthonystolp.dev">My Portfolio</a>
 - :memo: I started writing blogs which can be found at my: <a href="https://PolarLightsApparel.com/blogs/news">Shopify Store</a>
 - :speech_balloon: Ask me about anything React/JavaScript.
