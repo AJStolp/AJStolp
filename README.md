@@ -11,7 +11,7 @@
 - :man_technologist: All of my projects are available at: <a href="https://anthonystolp.dev">My Portfolio</a>
 - :memo: I started writing blogs which can be found at my: <a href="https://PolarLightsApparel.com/blogs/news">Shopify Store</a>
 - :speech_balloon: Ask me about anything React/JavaScript.
-- :evergreen_tree: I enjoy being in the outdoors. There's nothing quite like the feeling of being surrounded by nature, whether it's hiking through a forest or watching a stunning sunrise or sunset over the lake.
+- :evergreen_tree: I love spending time outdoors, whether it's fishing, 4-wheeling, snowmobiling, or hiking through state and national parks..
 
 - :mailbox_with_no_mail: You can reach me at <a href="mailto:anthony.stolp@proton.me">Anthony.Stolp@proton.me</a>
 - :handshake: You can connect with me here: <a href="https://linkedin.com/in/anthonyjstolp">LinkedIn</a>
