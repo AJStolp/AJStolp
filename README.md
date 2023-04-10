@@ -15,3 +15,4 @@
 
 - :mailbox_with_no_mail: You can reach me at <a href="mailto:anthony.stolp@proton.me">Anthony.Stolp@proton.me</a>
 - :handshake: You can connect with me here: <a href="https://linkedin.com/in/anthonyjstolp">LinkedIn</a>
+- :video_game: I enjoy playing Xbox and Clash of Clans on Mobile. 
