@@ -9,7 +9,6 @@
 - :eyes: Currently, I am looking for full time work.
 - :bulb: I’m currently learning PHP and Word Press coupled with elevating my TypeScript and React skills. I also started working with an open source CMS called <a href="https://strapi.io">Strapi.io</a> and another CMS called <a href="https://www.sanity.io/">Sanity.io</a>. I enjoy building sites coupled with a CMS for ease of use by clients and other teams.
 - :man_technologist: All of my projects are available at: <a href="https://anthonystolp.dev">My Portfolio</a>
-- :memo: I started writing blogs which can be found at my: <a href="https://PolarLightsApparel.com/blogs/news">Shopify Store</a>
 - :speech_balloon: Ask me about anything React/JavaScript.
 - :evergreen_tree: I love spending time outdoors, whether it's fishing, 4-wheeling, snowmobiling, or hiking through state and national parks..
 
