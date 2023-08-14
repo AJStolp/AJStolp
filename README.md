@@ -1,4 +1,3 @@
-### Hello, it's nice to see ya 👋
 
 👋 Hi there! I'm Anthony Stolp, a passionate software engineer with a focus on building responsive and accessible web applications using React and TypeScript, and other fronend frameworks. I'm committed to creating digital experiences that are inclusive and user-friendly.
 
