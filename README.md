@@ -1,7 +1,7 @@
 
 # Anthony Stolp
 
-👋 Hi there! I'm Anthony Stolp, a passionate software engineer with a focus on building responsive and accessible web applications using React and TypeScript, and other frontend frameworks. I'm committed to creating digital experiences that are inclusive and user-friendly.
+👋 Hello! I'm Anthony Stolp, a passionate software engineer with a focus on building responsive and accessible web applications using React and TypeScript, and other frontend frameworks. I'm committed to creating digital experiences that are inclusive and user-friendly.
 
 I believe in the power of technology to bridge gaps and create a more inclusive digital world.
 
