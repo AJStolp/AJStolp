@@ -16,6 +16,7 @@ I believe in the power of technology to bridge gaps and create a more inclusive 
 - Procore
 - Sanofi
 - American Diabetes Association
+- Prometric
 
 ## 🌱 Hobbies
 
