@@ -7,8 +7,11 @@ I believe in the power of technology to bridge gaps and create a more inclusive 
 
 ## Small Business Work
 
-- :rocket: Launched a website for a local hair salon utilizing Strapi.
-- :construction_worker: In the process of building a website for a drone video/photography business.
+- :rocket: Design and Launched a website for a local hair salon utilizing Strapi.
+- - <a href="www.radiant906.com">Radian Hair Salon</a>
+
+- :construction_worker: Design and Launched a website for a 3D tour, drone video/photography business.
+- <a href="www.polarlightsimaging.com">Polar Lights Imaging</a>
 
 ## Enterprise Work
 
