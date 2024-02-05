@@ -12,7 +12,7 @@ I believe in the power of technology to bridge gaps and create a more inclusive 
 
 - :construction_worker: Design and Launched a website for a 3D tour, drone video/photography business.
   - [www.polarlightsimaging.com](https://www.polarlightsimaging.com/)
-
+    
 ## Enterprise Work
 
 - Johnsonville Brats
