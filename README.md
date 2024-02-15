@@ -12,6 +12,9 @@ I believe in the power of technology to bridge gaps and create a more inclusive 
 
 - :construction_worker: Design and Launched a website for a 3D tour, drone video/photography business.
   - [www.polarlightsimaging.com](https://www.polarlightsimaging.com/)
+
+- ☕ I partnered with another individual to conceptualize and design both the web interface and cup design for our project. As the sole developer, I undertook the responsibility of bringing our vision to life by implementing the necessary code.
+  - https://coffeecuphut.com/
     
 ## Enterprise Work
 
