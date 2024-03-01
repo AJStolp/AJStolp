@@ -18,11 +18,6 @@ I believe in the power of technology to bridge gaps and create a more inclusive 
 - ☕ I partnered with another individual to conceptualize and design both the web interface and cup design for our project. As the sole developer, I undertook the responsibility of bringing our vision to life by implementing the necessary code.
   - https://coffeecuphut.com/
 <img width="1920" alt="cch-fs" src="https://github.com/AJStolp/AJStolp/assets/47982927/57b78047-7392-4716-8529-b36f6f4be165">
-
-## AI
-
-- Starting to work with AI, ESGRAN image upscaling.
-- AI Chatbot
     
 ## Enterprise Work
 
@@ -31,7 +26,16 @@ I believe in the power of technology to bridge gaps and create a more inclusive 
 - Sanofi
 - American Diabetes Association
 - Sogeti
-- Prometric 
+- Prometric
+
+## AI
+
+- Starting to work with AI, ESGRAN image upscaling.
+- AI Chatbot
+
+## Maps, Mapping, 3D Modeling
+- Involved in rendering 3D models of real estate and commercial properties. Currently using Open Drone Map.
+- Looking to get more exposure to Geospatial/Map work
 
 ## 🌱 Hobbies
 
