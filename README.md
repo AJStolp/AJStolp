@@ -11,11 +11,11 @@ I believe in the power of technology to bridge gaps and create a more inclusive 
   - [www.radiant906.com](https://www.radiant906.com/)
 ![radiant-fs](https://github.com/AJStolp/AJStolp/assets/47982927/2080739b-9a34-48fb-b920-3224f5c6957f)
 
-- :construction_worker: Designed, Launched, and currently maintains a website for a 3D tour, drone video/photography business.
+- :construction_worker: Designed, Launched, and currently maintain a website for a 3D tour, drone video/photography business.
   - [www.polarlightsimaging.com](https://www.polarlightsimaging.com/)
 ![polar-fs](https://github.com/AJStolp/AJStolp/assets/47982927/8f83c07f-12d0-4186-b4c4-1405573d9317)
 
-- ☕ I partnered with another individual to conceptualize and design both the web interface and cup design for our project. As the sole developer, I undertook the responsibility of bringing our vision to life by implementing the necessary code.
+- ☕ I partnered with another individual to conceptualize and design of both the web interface and cup design for our project. As the sole developer, I undertook the responsibility of bringing our vision to life by implementing the necessary code.
   - https://coffeecuphut.com/
 <img width="1920" alt="cch-fs" src="https://github.com/AJStolp/AJStolp/assets/47982927/57b78047-7392-4716-8529-b36f6f4be165">
     
