@@ -27,6 +27,8 @@ I believe in the power of technology to bridge gaps and create a more inclusive 
     
 ![yooperbroscoffee ss](https://github.com/AJStolp/AJStolp/assets/47982927/3a6f1e5f-b9af-41b2-bf32-3cf50e15aec0)
 
+checkout out our Twitter(X): https://twitter.com/YooperBros
+
     
 ## Enterprise Work
 
