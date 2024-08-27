@@ -1,4 +1,3 @@
-![www coffeecuphut com_](https://github.com/user-attachments/assets/cc33cde6-9702-4085-a8aa-4200171af5c2)
 # Anthony Stolp
 
 👋 Hello! I'm Anthony Stolp, a passionate software engineer with a focus on building responsive and accessible web applications using React and TypeScript, and other frontend frameworks. I'm committed to creating digital experiences that are inclusive and user-friendly.
