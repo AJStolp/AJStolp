@@ -1,4 +1,4 @@
-
+![www coffeecuphut com_](https://github.com/user-attachments/assets/cc33cde6-9702-4085-a8aa-4200171af5c2)
 # Anthony Stolp
 
 👋 Hello! I'm Anthony Stolp, a passionate software engineer with a focus on building responsive and accessible web applications using React and TypeScript, and other frontend frameworks. I'm committed to creating digital experiences that are inclusive and user-friendly.
@@ -20,7 +20,8 @@ I believe in the power of technology to bridge gaps and create a more inclusive 
 - ☕ I partnered with another individual to conceptualize and design of both the web interface and cup design for our project. As the sole developer, I undertook the responsibility of bringing our vision to life by implementing the necessary code.
   - https://coffeecuphut.com/
     
-<img width="1920" alt="cch-fs" src="https://github.com/AJStolp/AJStolp/assets/47982927/57b78047-7392-4716-8529-b36f6f4be165">
+![www coffeecuphut com_](https://github.com/user-attachments/assets/761eecba-6bfc-4b0e-bf1e-76caf6c2cc41)
+
 
 - ☕ I collaborated with another individual to conceptualize and design of both the web interface and bag design. As the sole developer, I undertook the responsibility of bringing our vision to life by implementing the necessary code.
   - https://YooperBrosCoffee.com/
