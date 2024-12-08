@@ -35,7 +35,7 @@ I believe in the power of technology to bridge gaps and create a more inclusive 
 ## AI
 
 - Starting to work with AI, ESGRAN image upscaling.
-- AI Chatbot
+- AI -> TTS-Reader -> AWS Polly, Fullter, Rust.
 
 ## Maps, Mapping, 3D Modeling
 - Involved in rendering 3D models of real estate and commercial properties. Currently using Open Drone Map.
