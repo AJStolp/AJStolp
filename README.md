@@ -17,17 +17,10 @@ I believe in the power of technology to bridge gaps and create a more inclusive 
 ![polar-fs](https://github.com/AJStolp/AJStolp/assets/47982927/8f83c07f-12d0-4186-b4c4-1405573d9317)
 
 - ☕ I partnered with another individual to conceptualize and design of both the web interface and cup design for our project. As the sole developer, I undertook the responsibility of bringing our vision to life by implementing the necessary code.
-  - https://coffeecuphut.com/
+  - https://ThreadedThoughtsco.com/
     
-![www coffeecuphut com_](https://github.com/user-attachments/assets/761eecba-6bfc-4b0e-bf1e-76caf6c2cc41)
+![www threadedthoughtsco com_](https://github.com/user-attachments/assets/da7d0d20-18d8-40bc-94b8-000a3a613780)
 
-
-- ☕ I collaborated with another individual to conceptualize and design of both the web interface and bag design. As the sole developer, I undertook the responsibility of bringing our vision to life by implementing the necessary code.
-  - https://YooperBrosCoffee.com/
-    
-![yooperbroscoffee ss](https://github.com/AJStolp/AJStolp/assets/47982927/3a6f1e5f-b9af-41b2-bf32-3cf50e15aec0)
-
-checkout out our Twitter(X): https://twitter.com/YooperBros - content and marketing
 
     
 ## Enterprise Work
